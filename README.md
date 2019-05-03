@@ -21,3 +21,25 @@ A primeira coluna da tabela 1 descreve os valores considerados para o peso do ca
 <p>
   Para implementar o código foi utilizado um editor de texto Visual Studio Code, e no código foram descritos um template para cada variável linguística, foi utilizado duas funções pré-definidas (Z e S) e uma trapezoide:
 </p>
+
+```
+(deftemplate Peso
+0 1300 kg
+    ((leve (z 0 800))
+    (medio (700 0)(800 1)(1000 1)(1100 0))
+    (pesado (s 1000 1300))
+    )
+)
+```
+
+<p>
+  A Figura 1 mostra os valores numéricos possíveis para o peso, leva em consideração as variáveis linguísticas na Tabela 1 e no template em questão.
+</p>
+
+<p align="center">
+  As variáveis linguísticas de entrada e saída são mostradas na tabela 1.
+  <img src="img/exemplo-peso.PNG">
+  <br/>
+  Figura 1. Plotagem dos Valores numéricos possíveis para a peso
+</p>
+
