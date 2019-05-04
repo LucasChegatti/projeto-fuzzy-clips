@@ -173,7 +173,7 @@ A primeira coluna da tabela 1 descreve os valores considerados para o peso do ca
 
 <p align="center">
   A Figura 4 mostra os resultados obtidos para os valores acima.
-  <img src="img/exemplo-consumo.PNG">
+  <img src="img/resultado-final.PNG">
   <br/>
   Figura 4. Resultado dos valores setados como Peso medio e Velocidade media
 </p>
