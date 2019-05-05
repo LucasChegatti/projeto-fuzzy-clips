@@ -208,11 +208,12 @@ A primeira coluna da tabela 1 descreve os valores considerados para o peso do ca
   A Figura 4 mostra os resultados obtidos para os valores acima.
   <img src="img/resultado-final.PNG">
   <br/>
-  Figura 4. Resultado dos valores setados como Peso medio e Velocidade media
+  Figura 4. Resultado dos valores setados como Peso medio e Velocidade media.</br>
+  (Consumo aproximado de 7.73 quilômetros por litro)
 </p>
 
 <p align="justify">
-As Figuras 5, 6, 7, 8, 9, 10, 11 e 12 logo abaixo mostram os resultados obtidos para as demais possibilidades de velores de Peso e Velocidade considerados na Tabela 1.
+As Figuras 5, 6, 7, 8, 9, 10, 11 e 12 logo abaixo mostram os resultados obtidos para as demais possibilidades de valores de Peso e Velocidade considerados na Tabela 1.
 </p>
 
 ```
