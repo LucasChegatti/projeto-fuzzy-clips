@@ -20,11 +20,11 @@
 
 (deftemplate Consumo
 0 16 km/l 
-    ((muito_baixo (z 0 5))
-    (baixo (4 0)(6 1)(8 0))
+    ((muito_baixo (s 13 16))
+    (baixo (9 0)(11 1)(14 0))
     (medio (7 0)(9 1)(10 0))
-    (alto (9 0)(11 1)(14 0))
-    (muito_alto (s 13 16))
+    (alto (4 0)(6 1)(8 0))
+    (muito_alto (z 0 5))
     )
 )
 
