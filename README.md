@@ -197,7 +197,8 @@ As Figuras 5, 6, 7, 8, 9, 10, 11 e 12 logo abaixo mostram os resultados obtidos 
   A Figura 5 mostra os resultados obtidos para os valores acima.
   <img src="img/resultado-leve-baixa.PNG">
   <br/>
-  Figura 5. Resultado dos valores setados como Peso leve e Velocidade baixa
+  Figura 5. Resultado dos valores setados como Peso leve e Velocidade baixa.</br>
+  (Consumo aproximado de 1.96 quilômetros por litro)
 </p>
 
 ```
@@ -211,7 +212,8 @@ As Figuras 5, 6, 7, 8, 9, 10, 11 e 12 logo abaixo mostram os resultados obtidos 
   A Figura 6 mostra os resultados obtidos para os valores acima.
   <img src="img/resultado-leve-media.PNG">
   <br/>
-  Figura 6. Resultado dos valores setados como Peso leve e Velocidade media
+  Figura 6. Resultado dos valores setados como Peso leve e Velocidade media.</br>
+  (Consumo aproximado de 6.11 quilômetros por litro)
 </p>
 
 ```
@@ -225,7 +227,8 @@ As Figuras 5, 6, 7, 8, 9, 10, 11 e 12 logo abaixo mostram os resultados obtidos 
   A Figura 7 mostra os resultados obtidos para os valores acima.
   <img src="img/resultado-leve-alta.PNG">
   <br/>
-  Figura 8. Resultado dos valores setados como Peso leve e Velocidade alta
+  Figura 7. Resultado dos valores setados como Peso leve e Velocidade alta.</br>
+  (Consumo aproximado de 8.49 quilômetros por litro)
 </p>
 
 ```
@@ -239,7 +242,8 @@ As Figuras 5, 6, 7, 8, 9, 10, 11 e 12 logo abaixo mostram os resultados obtidos 
   A Figura 8 mostra os resultados obtidos para os valores acima.
   <img src="img/resultado-medio-baixa.PNG">
   <br/>
-  Figura 8. Resultado dos valores setados como Peso medio e Velocidade baixa
+  Figura 8. Resultado dos valores setados como Peso medio e Velocidade baixa.</br>
+  (Consumo aproximado de 6.66 quilômetros por litro)
 </p>
 
 ```
@@ -253,7 +257,8 @@ As Figuras 5, 6, 7, 8, 9, 10, 11 e 12 logo abaixo mostram os resultados obtidos 
   A Figura 9 mostra os resultados obtidos para os valores acima.
   <img src="img/resultado-medio-alta.PNG">
   <br/>
-  Figura 9. Resultado dos valores setados como Peso medio e Velocidade alta
+  Figura 9. Resultado dos valores setados como Peso medio e Velocidade alta.</br>
+  (Consumo aproximado de 11.41 quilômetros por litro)
 </p>
 
 ```
@@ -267,7 +272,8 @@ As Figuras 5, 6, 7, 8, 9, 10, 11 e 12 logo abaixo mostram os resultados obtidos 
   A Figura 10 mostra os resultados obtidos para os valores acima.
   <img src="img/resultado-pesado-baixa.PNG">
   <br/>
-  Figura 10. Resultado dos valores setados como Peso pesado e Velocidade baixa
+  Figura 10. Resultado dos valores setados como Peso pesado e Velocidade baixa.</br>
+  (Consumo aproximado de 8.33 quilômetros por litro)
 </p>
 
 ```
@@ -281,7 +287,8 @@ As Figuras 5, 6, 7, 8, 9, 10, 11 e 12 logo abaixo mostram os resultados obtidos 
   A Figura 11 mostra os resultados obtidos para os valores acima.
   <img src="img/resultado-pesado-media.PNG">
   <br/>
-  Figura 11. Resultado dos valores setados como Peso pesado e Velocidade media
+  Figura 11. Resultado dos valores setados como Peso pesado e Velocidade media.</br>
+  (Consumo aproximado de 10.88 quilômetros por litro)
 </p>
 
 ```
@@ -295,7 +302,8 @@ As Figuras 5, 6, 7, 8, 9, 10, 11 e 12 logo abaixo mostram os resultados obtidos 
   A Figura 12 mostra os resultados obtidos para os valores acima.
   <img src="img/resultado-pesado-alta.PNG">
   <br/>
-  Figura 12. Resultado dos valores setados como Peso pesado e Velocidade alta
+  Figura 12. Resultado dos valores setados como Peso pesado e Velocidade alta.</br>
+  (Consumo aproximado de 13.53 quilômetros por litro)
 </p>
 
 ### 4 Conclusão
